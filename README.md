@@ -1,6 +1,6 @@
 # Игра жизнь
 
-![Cellular automaton]
+![Cellular automaton](https://user-images.githubusercontent.com/64311703/97787368-86cdf680-1ba9-11eb-84e5-50aa6b695873.png)
 
 [**Игра «Жизнь»**](https://ru.wikipedia.org/wiki/Игра_«Жизнь») – клеточный автомат, придуманный английским математиком Джоном Конвеем в 1970 году.
 
