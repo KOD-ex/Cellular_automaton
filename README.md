@@ -6,7 +6,7 @@
 
 Реализация на **JavaScript** и **HTML**
 
-[**ЧЕКАЙТЕ**](https://kod-ex.github.io/Game_of_life/)
+[**ЧЕКАЙТЕ**](https://sti11er.github.io/Game_of_life/)
 
 ## Правила
 
